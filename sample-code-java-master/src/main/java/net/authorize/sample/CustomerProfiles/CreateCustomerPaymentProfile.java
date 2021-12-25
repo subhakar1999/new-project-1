@@ -28,7 +28,7 @@ public class CreateCustomerPaymentProfile {
 		CustomerAddressType customerAddress = new CustomerAddressType();
 		customerAddress.setFirstName("test");
 		customerAddress.setLastName("scenario");
-		customerAddress.setAddress("123 Main Street");
+		customerAddress.setAddress("17/435 , sadhu chenganna street, kadapa");
 		customerAddress.setCity("Bellevue");
 		customerAddress.setState("WA");
 		customerAddress.setZip("98004");
